@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## Github Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TamangCodes" alt="TamangCodes" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TamangCodes&label=Profile%20views&color=0e75b6&style=flat" alt="naveenda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TamangCodes&label=Profile%20views&color=0e75b6&style=flat" alt="TamangCodes" /> </p>
